@@ -1,0 +1,254 @@
+{
+    "soal": [
+        {
+            "pertanyaan": "Apa arti dari kata 'くるま' (kuruma)?",
+            "pilihan": ["Mobil", "Sepeda", "Kereta", "Pesawat"],
+            "jawaban": "Mobil"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'ねこ' (neko)?",
+            "pilihan": ["Anjing", "Kucing", "Tikus", "Kelinci"],
+            "jawaban": "Kucing"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'いぬ' (inu)?",
+            "pilihan": ["Kucing", "Anjing", "Kuda", "Burung"],
+            "jawaban": "Anjing"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'たべる' (taberu)?",
+            "pilihan": ["Minum", "Makan", "Tidur", "Berlari"],
+            "jawaban": "Makan"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'みず' (mizu)?",
+            "pilihan": ["Teh", "Susu", "Air", "Jus"],
+            "jawaban": "Air"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'さかな' (sakana)?",
+            "pilihan": ["Daging", "Ikan", "Roti", "Nasi"],
+            "jawaban": "Ikan"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'ほん' (hon)?",
+            "pilihan": ["Pensil", "Tas", "Buku", "Meja"],
+            "jawaban": "Buku"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'でんわ' (denwa)?",
+            "pilihan": ["Radio", "Telepon", "Kipas", "Jam"],
+            "jawaban": "Telepon"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'あさ' (asa)?",
+            "pilihan": ["Siang", "Malam", "Pagi", "Sore"],
+            "jawaban": "Pagi"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'よる' (yoru)?",
+            "pilihan": ["Malam", "Pagi", "Siang", "Sore"],
+            "jawaban": "Malam"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'いえ' (ie)?",
+            "pilihan": ["Mobil", "Rumah", "Kantor", "Kelas"],
+            "jawaban": "Rumah"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'ともだち' (tomodachi)?",
+            "pilihan": ["Saudara", "Teman", "Tetangga", "Guru"],
+            "jawaban": "Teman"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'くつ' (kutsu)?",
+            "pilihan": ["Kaos kaki", "Sepatu", "Celana", "Topi"],
+            "jawaban": "Sepatu"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'てがみ' (tegami)?",
+            "pilihan": ["Majalah", "Surat", "Buku", "Kertas"],
+            "jawaban": "Surat"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'まど' (mado)?",
+            "pilihan": ["Pintu", "Jendela", "Dinding", "Lantai"],
+            "jawaban": "Jendela"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'はし' (hashi)?",
+            "pilihan": ["Sendok", "Garpu", "Sumpit", "Piring"],
+            "jawaban": "Sumpit"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'がっこう' (gakkou)?",
+            "pilihan": ["Sekolah", "Rumah", "Kantor", "Toko"],
+            "jawaban": "Sekolah"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'きょうしつ' (kyoushitsu)?",
+            "pilihan": ["Ruang kelas", "Kantor", "Ruang tamu", "Dapur"],
+            "jawaban": "Ruang kelas"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'かさ' (kasa)?",
+            "pilihan": ["Jaket", "Topi", "Payung", "Sarung tangan"],
+            "jawaban": "Payung"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'でぐち' (deguchi)?",
+            "pilihan": ["Pintu masuk", "Pintu keluar", "Jendela", "Tangga"],
+            "jawaban": "Pintu keluar"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'くに' (kuni)?",
+            "pilihan": ["Kota", "Negara", "Rumah", "Laut"],
+            "jawaban": "Negara"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'いす' (isu)?",
+            "pilihan": ["Meja", "Kursi", "Lantai", "Lemari"],
+            "jawaban": "Kursi"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'きもの' (kimono)?",
+            "pilihan": ["Pakaian tradisional", "Sepatu", "Jaket", "Celana"],
+            "jawaban": "Pakaian tradisional"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'おちゃ' (ocha)?",
+            "pilihan": ["Susu", "Kopi", "Teh", "Jus"],
+            "jawaban": "Teh"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'にく' (niku)?",
+            "pilihan": ["Sayur", "Ikan", "Daging", "Nasi"],
+            "jawaban": "Daging"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'しんぶん' (shinbun)?",
+            "pilihan": ["Surat", "Majalah", "Koran", "Buku"],
+            "jawaban": "Koran"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'はな' (hana)?",
+            "pilihan": ["Bunga", "Kupu-kupu", "Rumput", "Pohon"],
+            "jawaban": "Bunga"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'てんき' (tenki)?",
+            "pilihan": ["Hujan", "Cuaca", "Angin", "Salju"],
+            "jawaban": "Cuaca"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'しろい' (shiroi)?",
+            "pilihan": ["Hitam", "Putih", "Merah", "Biru"],
+            "jawaban": "Putih"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'あかい' (akai)?",
+            "pilihan": ["Kuning", "Hijau", "Biru", "Merah"],
+            "jawaban": "Merah"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'くろい' (kuroi)?",
+            "pilihan": ["Putih", "Hitam", "Merah", "Hijau"],
+            "jawaban": "Hitam"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'はやい' (hayai)?",
+            "pilihan": ["Lambat", "Cepat", "Tinggi", "Kecil"],
+            "jawaban": "Cepat"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'たかい' (takai)?",
+            "pilihan": ["Pendek", "Tinggi", "Kecil", "Besar"],
+            "jawaban": "Tinggi"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'ひくい' (hikui)?",
+            "pilihan": ["Tinggi", "Pendek", "Lambat", "Cepat"],
+            "jawaban": "Pendek"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'やすい' (yasui)?",
+            "pilihan": ["Mahal", "Murah", "Besar", "Kecil"],
+            "jawaban": "Murah"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'おおきい' (ookii)?",
+            "pilihan": ["Kecil", "Besar", "Panjang", "Pendek"],
+            "jawaban": "Besar"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'ちいさい' (chiisai)?",
+            "pilihan": ["Tinggi", "Pendek", "Kecil", "Besar"],
+            "jawaban": "Kecil"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'あたらしい' (atarashii)?",
+            "pilihan": ["Lama", "Baru", "Tua", "Muda"],
+            "jawaban": "Baru"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'ふるい' (furui)?",
+            "pilihan": ["Tua", "Muda", "Baru", "Kecil"],
+            "jawaban": "Tua"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'おもしろい' (omoshiroi)?",
+            "pilihan": ["Membosankan", "Menarik", "Seram", "Menyedihkan"],
+            "jawaban": "Menarik"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'しずか' (shizuka)?",
+            "pilihan": ["Ramai", "Tenang", "Besar", "Cepat"],
+            "jawaban": "Tenang"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'にぎやか' (nigiyaka)?",
+            "pilihan": ["Tenang", "Ramai", "Panas", "Dingin"],
+            "jawaban": "Ramai"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'あつい' (atsui)?",
+            "pilihan": ["Dingin", "Hangat", "Panas", "Sejuk"],
+            "jawaban": "Panas"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'さむい' (samui)?",
+            "pilihan": ["Panas", "Dingin", "Berangin", "Lembab"],
+            "jawaban": "Dingin"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'つめたい' (tsumetai)?",
+            "pilihan": ["Panas", "Dingin", "Hangat", "Menyegarkan"],
+            "jawaban": "Dingin"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'いそがしい' (isogashii)?",
+            "pilihan": ["Santai", "Sibuk", "Tenang", "Lambat"],
+            "jawaban": "Sibuk"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'たのしい' (tanoshii)?",
+            "pilihan": ["Seru", "Sedih", "Menakutkan", "Membosankan"],
+            "jawaban": "Seru"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'むずかしい' (muzukashii)?",
+            "pilihan": ["Mudah", "Sulit", "Menyenangkan", "Panas"],
+            "jawaban": "Sulit"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'やさしい' (yasashii)?",
+            "pilihan": ["Sulit", "Mudah", "Menyedihkan", "Menakutkan"],
+            "jawaban": "Mudah"
+        },
+        {
+            "pertanyaan": "Apa arti dari kata 'ながい' (nagai)?",
+            "pilihan": ["Pendek", "Tinggi", "Panjang", "Lama"],
+            "jawaban": "Panjang"
+        }
+    ]
+}
